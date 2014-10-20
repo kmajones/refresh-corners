@@ -7,6 +7,6 @@ $(document).ready(function(){
   
   // Your Scripts
 $('#one').corner('sharp bottom');
-$('#two').corner('30px');
+$('#two').corner('notch');
 $('#three').corner('dog tr');
 });
